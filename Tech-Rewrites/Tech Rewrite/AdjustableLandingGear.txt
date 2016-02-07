@@ -1,0 +1,17 @@
+
+
+//AdjustableLandingGear
+@PART[BD_Adj_LG_Medium]:NEEDS[AdjustableLandingGear]:AFTER[AdjustableLandingGear]
+{
+	@TechRequired = 
+}
+
+@PART[BD_Adj_LG_Side]:NEEDS[AdjustableLandingGear]:AFTER[AdjustableLandingGear]
+{
+	@TechRequired = 
+}
+
+@PART[BD_Adj_LG_Large]:NEEDS[AdjustableLandingGear]:AFTER[AdjustableLandingGear]
+{
+	@TechRequired = 
+}

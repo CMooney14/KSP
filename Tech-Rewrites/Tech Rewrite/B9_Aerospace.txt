@@ -1,0 +1,264 @@
+
+
+
+//B9_Aerospace
+@PART[B9_Adapter_C125]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Adapter_SM1]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Adapter_SM2]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Adapter_LM3]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Adapter_SM3]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Adapter_Y1]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Adapter_Front]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Structure_1m_U]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Adapter_2m_Side]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Structure_2m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Structure_2m_A]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Structure_05m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_SAS_05m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Structure_6m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Tail_8m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Cargo_Tail_Wide]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Cargo_A]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Cargo_B]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Body_Cargo_C]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Extension_A]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Extension_B1]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_HL_Extension_C]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_Intake_CLR]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_Intake_DSI]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_Intake_DSIX]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_Intake_Mount]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_Intake_RBM]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_Intake_RNM]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Aero_T2_Tail]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cargo_M2_Adapter]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cargo_M2_Separator]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cargo_M2_Body_B]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_D25]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[HL_Aero_Cockpit]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_M27]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK1_Body_2m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK1_Body_5m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK1_Control_ACU]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK1_Control_SAS]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK1_Junction]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK1_Tail]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Adapter]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Adapter_M125]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Adapter_M125_2]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Bicoupler]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Bicoupler_S]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Body_2m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Control_SAS]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Body_RCS_05m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Body_5m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+
+@PART[B9_Cockpit_MK2_Body_5m]:NEEDS[B9_Aerospace]:AFTER[B9_Aerospace]
+{
+	@TechRequired = 
+}
+mk2 body cargo
